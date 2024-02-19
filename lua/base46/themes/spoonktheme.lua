@@ -48,9 +48,9 @@ M.base_16 = {
   base0A = M.base_30.pmenu_bg,
   base0B = "#ABE9B3",
   base0C = "#89DCEB",
-  base0D = "#89B4FA",
+  base0D = M.base_30.nord_blue,
   base0E = "#CBA6F7",
-  base0F = "#F38BA8",
+  base0F = M.base_30.lavender,
 }
 
 M.polish_hl = {
