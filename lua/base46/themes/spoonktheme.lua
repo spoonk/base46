@@ -35,7 +35,7 @@ M.base_30 = {
 }
 
 M.base_16 = {
-  base00 = "#1E1D2D",
+  base00 = M.base_30.black,
   base01 = "#282737",
   base02 = "#2f2e3e",
   base03 = "#383747",
